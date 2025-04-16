@@ -31,4 +31,4 @@ Este proyecto permite calcular subredes a partir de una dirección IP, máscara 
 1. Clona el repositorio:
 
 ```bash
-git clone [https://github.com/usuario/tu-repo-subredes.git](https://github.com/RELIC7663/Calculadora_VLSM.git)
+git clone https://github.com/RELIC7663/Calculadora_VLSM.git
