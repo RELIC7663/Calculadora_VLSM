@@ -16,7 +16,8 @@ Este proyecto permite calcular subredes a partir de una dirección IP, máscara 
 
 ## 🖼️ Capturas
 
-![Interfaz del proyecto](./captura.png)
+![Interfaz del proyecto](https://github.com/user-attachments/assets/f94eab90-2cba-4eb2-a490-0bba058b89e1)
+
 
 ## 🧠 Lógica aplicada
 
