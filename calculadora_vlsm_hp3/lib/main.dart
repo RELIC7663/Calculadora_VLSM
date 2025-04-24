@@ -308,7 +308,7 @@ class _SubnetCalculatorHomeState extends State<SubnetCalculatorHome> {
                   // Aquí podrías abrir la URL usando un paquete como url_launcher
                 },
                 child: Text(
-                  "Repositorio GIT: https://github.com/tu_usuario/tu_proyecto",
+                  "Repositorio GIT: https://github.com/RELIC7663/Calculadora_VLSM.git",
                   style: TextStyle(
                     decoration: TextDecoration.underline,
                     color: Colors.deepPurple.shade600,
